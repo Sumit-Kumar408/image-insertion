@@ -1,11 +1,16 @@
-
-
-# image-insertion
-image-addn
-<div class="container">
-  <h2>My Favorite Place</h2>
-  <p>Of all the places in the world, this is the one I like the most:</p>
-  <div>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_22849079_happy-family-eating-together-in-a-restaurant-with-child-and-grandparents.html&psig=AOvVaw1juy1Vi77ZNH6G9hBSQbA0&ust=1620739120902000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDNt_eZv_ACFQAAAAAdAAAAABAJ" alt="happy 2Ffamily-eating-dinner" />
-  </div>
+<div>
+ <h1>Sally Student
+ 	<link rel="stylesheet" type="text/css" href="main.css"></h1>
+ <p>I'm an aspiring full stack web devloper.I love cats coding and corcheting.</p>
+ <h2>skills</h2>
+ <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>jQuery</li>
+ </ul>
+ <h2>Contact Info</h2>
+ <p>Twitter: <a href="https://twitter.com/sallyStudent">@sallyStudent</a></p>
 </div>
+
+
